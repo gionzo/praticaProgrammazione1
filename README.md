@@ -1,5 +1,5 @@
 # praticaProgrammazione1
-Riassunto parte pratica dell'esame di progrmmazione 1 (in C++).
+Riassunto parte pratica dell'esame di programmazione 1 (in C++).
 ## 01_base
 Recap dei concetti di base;
 ## 02_strutture
