@@ -38,10 +38,10 @@ typedef struct esempio{
 }esempio;
 
 int main(int argc, char *argv[]){
-    esempio struttura;
-    struttura.valore1 = 10;
-    struttura.valore2 = 12;
-    struttura.stampa();
-    cout << "somma: " << struttura.somma() << endl;
-
+    esempio s1;
+    esempio s2(3);
+    esempio s3(4,2);
+    s1.stampa();
+    s2.stampa();
+    s3.stampa();
 }
